@@ -11,7 +11,6 @@ import {
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
-import { set } from "mongoose";
 import Link from "next/link";
 import { useState } from "react";
 import { signUp } from "@/lib/auth/auth-client";
